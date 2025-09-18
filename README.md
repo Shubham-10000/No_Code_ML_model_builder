@@ -30,14 +30,23 @@ This project is a Streamlit application designed for machine learning tasks, inc
 ```
 ML_Project
 ├── app.py                # Main entry point of the Streamlit application
+
 ├── file_manage.py        # Handles file management functionalities
+
 ├── preprocessing.py      # Contains functions for data preprocessing
+
 ├── model_training.py     # Responsible for training and evaluating machine learning models
+
 ├── model_selection.py     # Allows users to select a specific model and determine problem type
+
 ├── uploads               # Directory for storing uploaded CSV files
+
 ├── preprocessed_data     # Directory for preprocessed CSV files
+
 ├── mapping               # Directory for JSON files with label encoding mappings
+
 ├── saved_models          # Directory for saving trained models
+
 └── README.md             # Documentation for the project
 ```
 
